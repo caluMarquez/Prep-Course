@@ -1,0 +1,18 @@
+
+h1 {
+    color:darkviolet;
+}
+
+#thirdDiv {
+    background-color: lightsteelblue;
+    height: 500px;
+    width: 600px;
+    padding: 50px;
+    border: 10px solid blue;
+
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
